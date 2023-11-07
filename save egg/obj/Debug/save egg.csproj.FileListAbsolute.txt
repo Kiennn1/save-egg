@@ -1,0 +1,11 @@
+C:\Users\sky\OneDrive\Tài liệu\C#\save egg\save egg\bin\Debug\save egg.exe.config
+C:\Users\sky\OneDrive\Tài liệu\C#\save egg\save egg\bin\Debug\save egg.exe
+C:\Users\sky\OneDrive\Tài liệu\C#\save egg\save egg\bin\Debug\save egg.pdb
+C:\Users\sky\OneDrive\Tài liệu\C#\save egg\save egg\obj\Debug\save egg.csproj.AssemblyReference.cache
+C:\Users\sky\OneDrive\Tài liệu\C#\save egg\save egg\obj\Debug\save egg.csproj.SuggestedBindingRedirects.cache
+C:\Users\sky\OneDrive\Tài liệu\C#\save egg\save egg\obj\Debug\save_egg.Form1.resources
+C:\Users\sky\OneDrive\Tài liệu\C#\save egg\save egg\obj\Debug\save_egg.Properties.Resources.resources
+C:\Users\sky\OneDrive\Tài liệu\C#\save egg\save egg\obj\Debug\save egg.csproj.GenerateResource.cache
+C:\Users\sky\OneDrive\Tài liệu\C#\save egg\save egg\obj\Debug\save egg.csproj.CoreCompileInputs.cache
+C:\Users\sky\OneDrive\Tài liệu\C#\save egg\save egg\obj\Debug\save egg.exe
+C:\Users\sky\OneDrive\Tài liệu\C#\save egg\save egg\obj\Debug\save egg.pdb
